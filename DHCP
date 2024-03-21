@@ -10,8 +10,5 @@
 # DHCP works on DORA process:
   D - Discovery - It is a broadcast messege from DHCP client to DHCP server
   O - Offer - It is also broadcast messege from DHCP server to DHCP client with a initial IP configuration
-  R - Request - 
-  A - Acknowledgement
-
-
-# 
+  R - Request - It is also broadcast messege from DHCP client to DHCP server for approval DHCP server
+  A - Acknowledgement - 
