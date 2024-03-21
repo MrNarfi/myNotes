@@ -1,0 +1,14 @@
+# DHCP (Dynamic Host Control Protocol)
+  - DHCP is used for assign/configure automatic IP address for known/unknown clients.
+  - DHCP provides the centrelized management for the assigned IP addresses.
+  - DHCP provides a reservation(store of all information of IP's), means IP addresses reserve for particular MAC(Media Access Control) Address or machine.
+
+# DHCP error:
+  - DHCP cannot detect IP confliction.
+  - DHCP have single point failure, if DHCP server fails then entire network fails
+
+# DHCP works on DORA process:
+  D - Discovery
+  O - Offer
+  R - Request
+  A - Acknowledgement
